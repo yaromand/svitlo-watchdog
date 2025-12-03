@@ -1,0 +1,6 @@
+python-telegram-bot~=22.5
+python-telegram-bot[job-queue]
+flask
+requests
+pydantic
+python-dotenv
