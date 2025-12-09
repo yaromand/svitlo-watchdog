@@ -12,9 +12,20 @@
       "updated_at": 1764778670
     },
     "2025-12-04": {
+      "slots": [
+        {
+          "start_ts": 1764871200,
+          "end_ts": 1764885600,
+          "status": "ScheduleApplies",
+          "title": "Заплановане відключення"
+        }
+      ],
+      "updated_at": 1764832361
+    },
+    "2025-12-05": {
       "slots": [],
-      "updated_at": 1764778670
+      "updated_at": 1764832361
     }
   },
-  "last_check_ts": 1764778670
+  "last_check_ts": 1764832361
 }
